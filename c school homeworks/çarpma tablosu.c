@@ -2,7 +2,7 @@
 
 int main(void){
 	
-	int i,j,top=1;
+	int i,j,;
 	
 	for(i=1;i<=10;i++){
 		
